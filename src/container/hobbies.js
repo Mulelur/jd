@@ -1,6 +1,6 @@
 import React from "react";
 import { Hobbies } from "../components";
-import img from "../assets/about.png";
+import img from "../assets/jd_2.jpeg";
 
 export default function HobbiesContainer() {
   return (
@@ -12,7 +12,7 @@ export default function HobbiesContainer() {
         <Hobbies.Col>
           <Hobbies.Heading2>🎧 Listening</Hobbies.Heading2>
           <Hobbies.Heading2>📘 Reading</Hobbies.Heading2>
-          <Hobbies.Heading2>📺 Watching</Hobbies.Heading2>
+          <Hobbies.Heading2>📺 Watching Movies</Hobbies.Heading2>
         </Hobbies.Col>
       </Hobbies.Row>
     </Hobbies>

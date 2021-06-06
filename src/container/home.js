@@ -1,7 +1,7 @@
 import React from "react";
 import { Home } from "../components";
 import HomeIcon from "../icons";
-import img from "../assets/homeIcon.svg";
+import img from "../assets/jd_1.jpeg";
 import cv from "../assets/cv/Mufamadi Rotondwa CV.pdf";
 
 export default function HomeContainer() {
