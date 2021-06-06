@@ -8,14 +8,13 @@ export default function HomeContainer() {
   return (
     <Home>
       <Home.Column>
-        <Home.Text>Hi, I'm Rofhiwa Luvhugu</Home.Text>
+        <Home.Text>I am mufamadi rotondwa jeddi</Home.Text>
         <Home.Title>
           A Digital Designer and Softwer Developer from the South.
         </Home.Title>
         <Home.Text>
-          Welcome to my portfolio I'am a future civil engineer Whome in futures
-          will be surveying, designing houses and malls, managing projects all
-          over the world.. Lets go!
+          I am a very patient boy and a boy who is willing to accomplish his of
+          becoming an industrial engineer.
         </Home.Text>
         <Home.Link href={cv} target="_blank">
           download cv

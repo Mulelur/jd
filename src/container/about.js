@@ -10,8 +10,9 @@ export default function AboutContainer() {
           <About.Text>A little bit</About.Text>
           <About.Title>About Me</About.Title>
           <About.Text>
-            I am lufhugu Rofhiwa, a student at vaal University of Technology. I
-            am doing a field of engineering which is civil engineering.
+            I am mufamadi rotondwa jeddi, a student at vaal University of
+            Technology. I am doing a field of engineering which is Industrial
+            Engineering.
           </About.Text>
           <About.Text>
             I would love to be a civil engineer in the next 4 to 5 years and
